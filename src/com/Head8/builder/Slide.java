@@ -1,0 +1,14 @@
+package com.Head8.builder;
+
+public class Slide {
+  private String text;
+
+  public Slide(String text) {
+    this.text = text;
+  }
+
+  public String getText() {
+    return text;
+  }
+
+}
